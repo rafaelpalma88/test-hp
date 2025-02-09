@@ -33,7 +33,7 @@ Follow the steps below to run the project locally.
 1.  Clone the repository:
 
 ```
-git clone https://github.com/your-username/harry-potter-app.git
+git clone https://github.com/rafaelpalma88/test-hp.git
 cd harry-potter-app
 ```
 
