@@ -1,0 +1,19 @@
+.theme-gryffindor {
+  --primary-color: #740001;
+  --secondary-color: #d3a625;
+}
+
+.theme-slytherin {
+  --primary-color: #1a472a;
+  --secondary-color: #aaaaaa;
+}
+
+.theme-hufflepuff {
+  --primary-color: #ecb939;
+  --secondary-color: #372e29;
+}
+
+.theme-ravenclaw {
+  --primary-color: #0e1a40;
+  --secondary-color: #946b2d;
+}
